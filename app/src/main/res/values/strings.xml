@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MobileQuizz</string>
+    <string name="student_username">Student Username</string>
+    <string name="student_password">Student Password</string>
+    <string name="submit">Submit</string>
+    <string name="admin_username">Admin Username</string>
+    <string name="admin_password">Admin Password</string>
+    <string name="new_username">New Username</string>
+    <string name="new_password">New Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="set_student_username">Set Student Username</string>
+    <string name="set_student_password">Set Student Password</string>
+    <string name="add_student">Add Student</string>
+    <string name="manage_students">Manage Students</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="question">Question</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="your_question">Your Question</string>
+    <string name="back">Back</string>
+    <string name="studentdata">StudentData</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="username">UserName</string>
+    <string name="finish_quiz">Finish Quiz</string>
+    <string name="manage_questions">Manage Questions</string>
+    <string name="add_question">Add Question</string>
+    <string name="admin">Admin Login</string>
+    <string name="student">Student Login</string>
+    <string name="quiz_not_started_yet">Quiz Not Started Yet</string>
+</resources>
